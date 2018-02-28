@@ -1,0 +1,4 @@
+name: Twig
+description: simple theme from Drupal themming with Twig
+core: 8.x
+base theme: false
